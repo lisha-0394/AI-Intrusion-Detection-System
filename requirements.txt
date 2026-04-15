@@ -1,0 +1,6 @@
+flask
+scikit-learn
+tensorflow
+pandas
+numpy
+imblearn
