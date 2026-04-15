@@ -33,5 +33,14 @@ This project is an AI-powered system designed to detect cyber-attacks in network
 ## How to Run
 
 1. Clone the repository:
+
+## Project Structure
+
+AI-Intrusion-Detection-System/
+│
+├── app.py              # Flask web application
+├── model.pkl           # Trained ML model
+├── train_model.py      # Model training script
+├── README.md           # Project documentation
 ```bash
 git clone https://github.com/yourusername/AI-Intrusion-Detection-System.git
